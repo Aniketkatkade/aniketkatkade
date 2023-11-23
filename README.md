@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aniket Katkade</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<h3 align="center">I am Java Backend Developer proficient in Object-Oriented Programming, Data Structures and Algorithms, SQL, and Spring Boot</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketkatkade&label=Profile%20views&color=0e75b6&style=flat" alt="aniketkatkade" /> </p>
 
+- 🔭 I’m currently working on **Springboot**
+
 - 🌱 I’m currently learning **Pythaon,JavaScript**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Aniketkatkade](https://github.com/Aniketkatkade)
 
 - 💬 Ask me about **Java,Sql,SpringBoot,DSA**
 
@@ -19,6 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/aniket-katkade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-katkade" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aniketkatkade123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aniketkatkade123" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/aniketkatkade123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aniketkatkade123/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,6 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketkatkade&show_icons=true&locale=en" alt="aniketkatkade" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketkatkade&" alt="aniketkatkade" /></p>
-
 
       
